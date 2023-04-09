@@ -11,6 +11,7 @@ Before you begin, make sure you have the following:
 ### 1. Create a security group for the load balancer
 
 ### 2. Add inbound rules to the security group
+Add HTTP - All Traffic
 
 ### 3. Create the Application Load Balancer
 Use the AWS Management Console to create the Application Load Balancer. Here are the values we'll use:
